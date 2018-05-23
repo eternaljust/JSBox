@@ -2,7 +2,7 @@
 // 反馈邮件: tzqiang1118@163.com
 
 // 加载下一页数据的page
-var page = 0
+var page = 1
 // 爱范儿api
 let api = "https://ifanr.com/"
 // 网格视图matrix的cell模板
